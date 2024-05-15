@@ -2460,6 +2460,8 @@
     <string>dotaboverightcomb.glif</string>
     <key>dotaccentmod</key>
     <string>dotaccentmod.glif</string>
+    <key>dotbelowcomb</key>
+    <string>dotbelowcomb.glif</string>
     <key>dottedcircle</key>
     <string>dottedcircle.glif</string>
     <key>dottedsquare</key>
@@ -111894,8 +111896,12 @@
     <string>hiraganazu-kana.glif</string>
     <key>hiressquared</key>
     <string>hiressquared.glif</string>
+    <key>hookabovecomb</key>
+    <string>hookabovecomb.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
+    <key>horncomb</key>
+    <string>horncomb.glif</string>
     <key>hotsprings</key>
     <string>hotsprings.glif</string>
     <key>hparenthesized</key>
@@ -114000,6 +114006,8 @@
     <string>threeromannumeral.glif</string>
     <key>threesuperior</key>
     <string>threesuperior.glif</string>
+    <key>tildecomb</key>
+    <string>tildecomb.glif</string>
     <key>tortoiseshellbracketedcjkunifiedideograph4e09</key>
     <string>tortoiseshellbracketedcjkunifiedideograph4e09.glif</string>
     <key>tortoiseshellbracketedcjkunifiedideograph4e8c</key>
