@@ -43,7 +43,7 @@
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
+    <string>Version 1.001</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -89,6 +89,18 @@
     <integer>995</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>229</integer>
+    <key>openTypeVheaCaretOffset</key>
+    <integer>0</integer>
+    <key>openTypeVheaCaretSlopeRise</key>
+    <integer>14</integer>
+    <key>openTypeVheaCaretSlopeRun</key>
+    <integer>1</integer>
+    <key>openTypeVheaVertTypoAscender</key>
+    <integer>500</integer>
+    <key>openTypeVheaVertTypoDescender</key>
+    <integer>-500</integer>
+    <key>openTypeVheaVertTypoLineGap</key>
+    <integer>0</integer>
     <key>postscriptFontName</key>
     <string>CactusClassicalSerif-Regular</string>
     <key>postscriptUnderlinePosition</key>
@@ -104,7 +116,7 @@
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>501</integer>
   </dict>
