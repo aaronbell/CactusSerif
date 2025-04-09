@@ -5,6 +5,6 @@
 # Names should be added to this file as:
 # Name or Organization <email address
 
+Henry Chan @hfhchan
 田海東 @jisbig5
 宇文滿月 @MoonlitOwen
-Henry Chan @hfhchan
